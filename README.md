@@ -12,7 +12,7 @@ When I am not building softwares, I enjoy spending time exploring new concepts a
 > 🌟 "Simple things should be simple, **complex things should be possible.**" - Alan Kay 🚀
 
 - 🔭 I’m currently working on a mobile banking application - Optiverse
-- 🌱 I’m currently learning best principles in software engineering
+- 🌱 I’m currently learning best practices in software engineering
 - 👯 I’m looking to collaborate on projects that can give back to my community 
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I write poems. 
