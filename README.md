@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there, I am Danise 👋
 
-<!--
-**idanise/idanise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am backend engineer who enjoys building software's that engineers solutions.
+When I am not building softwares, I enjoy spending time exploring new concepts and understanding how things work.
 
-Here are some ideas to get you started:
+- 💻 I specialize in backend development, leveraging my skills in languages like C# and Typescript.
+- 🛠️ I love architecting robust solutions that make a difference.
+- 🌐 Experienced in building RESTful APIs, microservices, and scalable backend systems.
+- 📚 Lifelong learner - constantly exploring new technologies, tools, and methodologies to stay ahead in the ever-evolving tech landscape.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quote I Live By
+> 🌟 "Simple things should be simple, **complex things should be possible.**" - Alan Kay 🚀
+
+- 🔭 I’m currently working on a mobile banking application - Optiverse
+- 🌱 I’m currently learning best principles in software engineering
+- 👯 I’m looking to collaborate on projects that can give back to my community 
+- 😄 Pronouns: Him/He
+- ⚡ Fun fact: I write poems. 
+
