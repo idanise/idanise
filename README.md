@@ -9,7 +9,7 @@ When I am not building softwares, I enjoy spending time exploring new concepts a
 - 📚 Lifelong learner - constantly exploring new technologies, tools, and methodologies to stay ahead in the ever-evolving tech landscape.
 
 ## Quote I Live By
-> 🌟 "Simple things should be simple, **complex things should be possible.**" - Alan Kay 🚀
+🌟 "Simple things should be simple, **complex things should be possible.**" - Alan Kay 🚀
 
 - 🔭 I’m currently working on a mobile banking application - Optiverse
 - 🌱 I’m currently learning best principles in software engineering
